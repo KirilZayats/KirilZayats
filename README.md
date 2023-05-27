@@ -73,3 +73,4 @@
         -- >
       </li>
     </ul>
+    [![trophy](https://github-profile-trophy.vercel.app/?username=KirilZayats)](https://github.com/ryo-ma/github-profile-trophy)
